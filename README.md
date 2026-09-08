@@ -19,22 +19,16 @@ I'm a dedicated computer science student with a passion for exploring the art an
 
 ## 📚 Education
 
-**Bachelor’s Program in Computer Science**  
+**Bachelor’s Degree in Computer Science**  
 _Umeå University_  
 - **Focus:** User-centric software development & project management  
-- **Expected Graduation:** 2026
+- **Graduation year:** 2026
 
 ---
 
 ## 🌍 Where I Am
 
 - **City:** Umeå, Sweden  
-
----
-
-## 🌟 My Aspirations
-
-I am on a mission to make a meaningful impact in the tech world by continuously learning, collaborating on innovative projects, and solving challenging problems.
 
 ---
 
